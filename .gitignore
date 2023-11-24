@@ -13,6 +13,7 @@ others/.DS_Store
 .vscode/
 
 build/
+sync/
 *.userdb/
 installation.yaml
 user.yaml
